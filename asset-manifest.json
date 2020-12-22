@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/10BeginnerProjectInReact/static/css/main.3dca165a.chunk.css",
+    "main.js": "/10BeginnerProjectInReact/static/js/main.75b522f0.chunk.js",
+    "main.js.map": "/10BeginnerProjectInReact/static/js/main.75b522f0.chunk.js.map",
+    "runtime-main.js": "/10BeginnerProjectInReact/static/js/runtime-main.d2132f1c.js",
+    "runtime-main.js.map": "/10BeginnerProjectInReact/static/js/runtime-main.d2132f1c.js.map",
+    "static/js/2.4458b332.chunk.js": "/10BeginnerProjectInReact/static/js/2.4458b332.chunk.js",
+    "static/js/2.4458b332.chunk.js.map": "/10BeginnerProjectInReact/static/js/2.4458b332.chunk.js.map",
+    "index.html": "/10BeginnerProjectInReact/index.html",
+    "static/css/main.3dca165a.chunk.css.map": "/10BeginnerProjectInReact/static/css/main.3dca165a.chunk.css.map",
+    "static/js/2.4458b332.chunk.js.LICENSE.txt": "/10BeginnerProjectInReact/static/js/2.4458b332.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/10BeginnerProjectInReact/static/media/bgimage.d75a3813.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2132f1c.js",
+    "static/js/2.4458b332.chunk.js",
+    "static/css/main.3dca165a.chunk.css",
+    "static/js/main.75b522f0.chunk.js"
+  ]
+}
